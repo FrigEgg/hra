@@ -64,3 +64,5 @@ The rendered images will be saved in `./render` directory by default.
 # License
 
 Please refer to LICENSE.txt.
+
+my github
